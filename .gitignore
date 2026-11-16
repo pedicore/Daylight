@@ -1,0 +1,20 @@
+/build*/
+/CMakeUserPresets.json
+
+*.user
+*.user.*
+
+/.qt/
+/.cache/
+
+.DS_Store
+Thumbs.db
+
+*.exe
+*.dll
+*.so
+*.dylib
+*.log
+
+# Local task data
+tasks.json
